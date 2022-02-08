@@ -1,7 +1,7 @@
 # SimpleAppWithDatatBase</br>
 It is simple app which allow us to store user data in database</br>
 ## Functions:</br>
-*Create
+*Create</br>
 *Read</br>
 *Update</br>
 *Delete</br>
