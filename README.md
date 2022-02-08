@@ -2,7 +2,7 @@
 It is simple app which allow us to store user data in database</br>
 ## Functions:</br>
 *CRUD:</br>
-/t-Create</br>
+&amp-Create</br>
 -Read</br>
 -Update</br>
 -Delete</br>
