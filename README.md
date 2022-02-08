@@ -2,10 +2,10 @@
 It is simple app which allow us to store user data in database</br>
 ## Functions:</br>
 *CRUD:</br>
-  -Create
-  -Read
-  -Update
-  -Delete
+<t>-Create</br>
+-Read</br>
+-Update</br>
+-Delete</br>
 *Search
 *start animation(mouse center click)</br>
 *stop animation(mousue right click)</br>
