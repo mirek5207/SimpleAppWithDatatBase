@@ -1,7 +1,12 @@
 # SimpleAppWithDatatBase</br>
 It is simple app which allow us to store user data in database</br>
 ## Functions:</br>
-*resize ball(mouse scroll)</br>
+*CRUD:</br>
+  -Create
+  -Read
+  -Update
+  -Delete
+*Search
 *start animation(mouse center click)</br>
 *stop animation(mousue right click)</br>
 *create new ball(mousue left click)</br>
