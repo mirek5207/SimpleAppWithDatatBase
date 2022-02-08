@@ -2,8 +2,8 @@
 It is simple app which allow us to store user data in database</br>
 
 ## Functions:</br>
-*Add user data</br>
-*Update user data</br>
+*Add user </br>
+*Update user </br>
 *Search user</br>
 *Delete user</br>
 *Display all user</br>
