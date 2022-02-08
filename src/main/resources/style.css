@@ -1,0 +1,63 @@
+.Textfield{
+    -fx-background-color:   #1e1e1e;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #9400D3;
+    -fx-text-fill:  white;
+    -fx-border-radius: 4px;
+    -fx-opacity: 1.0;
+}
+.Button{
+    -fx-background-color:  #9400D3;
+    -fx-text-fill:  white;
+    -fx-background-radius: 7px;
+    -fx-font-weight: bold;
+    -fx-opacity: 1.0;
+
+}
+.Button:hover{
+    -fx-background-color:   #181818;
+}
+#surNameColumn{
+    -fx-control-inner-background: #262626;
+    -fx-background-color: #262626;
+    -fx-background: #262626;
+    -fx-border-color: #9400D3;
+    -fx-border-width: 0 1 0 0;
+    -fx-opacity: 1.0;
+
+}
+#idColumn{
+    -fx-control-inner-background: #262626;
+    -fx-background-color: #262626;
+    -fx-background: #262626;
+    -fx-opacity: 1.0;
+
+}
+#nameColumn{
+    -fx-control-inner-background: #262626;
+    -fx-background-color: #262626;
+    -fx-background: #262626;
+    -fx-opacity: 1.0;
+
+}
+#text{
+    -fx-background-color: #9400D3;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: WHITE;
+    -fx-font-width: 20px;
+    -fx-padding:20 0 0 0;
+
+}
+#dataBaseHeader{
+    -fx-control-inner-background:blue;
+    -fx-background-color: dark;
+    -fx-border-color: #9400D3;
+    -fx-border-width: 0 0 0 0;
+    -fx-opacity: 1.0;
+}
+.text-area .scroll-bar:horizontal:disabled  {
+    -fx-opacity: 0;
+}
+.text-area .scroll-bar:vertical:disabled  {
+    -fx-opacity: 0;
+}
