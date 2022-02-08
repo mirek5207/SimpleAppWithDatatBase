@@ -15,7 +15,6 @@ It is simple app which allow us to store user data in database</br>
 *Java</br>
 *Javafx</br>
 *SQLite</br>
-*SQLite</br>
 *CSS</br>
 
 Author: Mirosław Karwowski</br>
