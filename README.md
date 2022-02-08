@@ -13,6 +13,7 @@ It is simple app which allow us to store user data in database</br>
 
 ## Technologies:
 *Java</br>
+*Maven</br>
 *Javafx</br>
 *SQLite</br>
 *CSS</br>
